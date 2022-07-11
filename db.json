@@ -1,5 +1,5 @@
 {
-    "available_flights": [
+    "flights": [
       {
         "id": 1,
         "origin": "Singapore",
